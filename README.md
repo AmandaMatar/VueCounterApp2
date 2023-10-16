@@ -1,15 +1,15 @@
 # VueCounterApp2
 
-## Primeiro Projeto do Curso: The Vue 3 Bootcamp - The Complite Developer Guide - Segundo Projeto
+## Primeiro Projeto do Curso: The Vue 3 Bootcamp - The Complite Developer Guide - Terceiro Projeto
 <br>
 <br>
 
 **Esse repostório de estudos tem o objetivo de desenvolver conhecimentos teórico e prático sobre o Vue 3.**
 
 #### O que vimos?
- - Neste projeto o professor propõe o desenvolvimento de um projeto que ao final recebe três formas diferentes de execução. No primeiro momento, desenvolvemos toda a ferramenta com o JavaScript, como já vimos. Neste segundo, é proposto o desenvolvimento do mesmo projeto porém agora usando o Vue 3 porém ainda limitado aos conhecimentos de HTML e CSS.
- - Neste projeto, percebemos que sim é possível desenvolver uma aplicação usando o Vue 3 sem aplicar as suas boas práticas, mas o questionamento que fica é: seria essa a melhor forma de desenvolvimento de uma aplicação?
- - Por isso, nos passos seguintes estudamos outras alternativas para um desenvolvimento mais organizado, ágil e eficiente.
+ - Neste projeto o professor propõe o desenvolvimento de um projeto que ao final recebe três formas diferentes de execução. No primeiro momento, desenvolvemos toda a ferramenta com o JavaScript, como já vimos. No segundo, é proposto o desenvolvimento do mesmo projeto porém agora usando o Vue 3 porém ainda limitado aos conhecimentos de HTML e CSS, como também já vimos. Ao final, no ultimo projeto o professor propõe o desenvolvimento usando o Vue 3  e suas boas práticas, como o uso de arquivo App.vue, e a tag <template>, onde todo o desenvolvimento da aplicação se concentra apenas neste arquivo, garantindo além de agilidade, organização.
+ - É importante destacar que ambas as três formas de desenvolvimento funcionam perfeitamente, mas cabe ao desenvolvedor afinar suas técnicas e boas práticas afim de ter um melhor desempenho no código. Por isso, é extremamente importante, ainda que não as use, conhecer as outras maneiras de desenvolvimento que também funcionam.
+
  <br>
  <br>
 
@@ -22,7 +22,10 @@
 
  Acesse o primeiro projeto [VueCounterApp](https://github.com/AmandaMatar/JSCounterApp) para ver os primeiros passos do desenvolvimento com  o JavaScript.
 
- Acesse o terceiro projeto [VueCounterApp2](https://github.com/AmandaMatar/VueCounterApp2) para ver o desenvolvimento usando totalmente o Vue 3.
+ Acesse o segundo projeto [VueCounterApp2](https://github.com/AmandaMatar/VueCounterApp) para ver o desenvolvimento usando parcialemte o Vue 3.
+
+<br>
+<br>
 
 > [!IMPORTANT]
 > Esse material serve como portifólio de estudos.
@@ -61,4 +64,4 @@ npm run dev
 ```sh
 npm run build
 ```
-# VueCounterApp2
+
