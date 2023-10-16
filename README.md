@@ -13,7 +13,7 @@
  <br>
  <br>
 
- - Confira o template o projeto JSCounterApp
+ - Confira o template o projeto VueCounterApp2
 
  ![template](jscounterapp.png) 
 
