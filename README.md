@@ -15,7 +15,7 @@
 
  - Confira o template o projeto VueCounterApp2
 
- ![template](jscounterapp.png) 
+ ![alt](https://drive.google.com/uc?id=1eDEUNjMTJMXJbXRWuJPzQ597vnrHKIVz) 
 
 <br>
 <br>
